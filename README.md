@@ -1,5 +1,5 @@
 # thesaurus
-Offline database of synonyms/thesaurus
+Offline database of synonyms/thesaurus (forked from https://github.com/zaibacu/thesaurus)
 
 # Format
 It follows `jsonl` format - meaning, that each line is a separate `json` document.
